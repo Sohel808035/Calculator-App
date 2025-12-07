@@ -27,10 +27,12 @@ Designed with a simple UI and smooth functionality — perfect as a starter Andr
 
 ##  Screenshots
 
-> Add your app screenshots here (2–3 images recommended)  
-Create a folder named **/screenshots** and upload images.
 
-Example:
+![Home Screen](screenshots/screen1.jpg)
+
+
+
+
 
 
 
