@@ -23,13 +23,12 @@ Designed with a simple UI and smooth functionality — perfect as a starter Andr
 - **View Binding**
 - **MVVM (if you used it — remove if not)**
 
----
-
 ##  Screenshots
+### Home Screen
+![Home Screen](screenshots/Screenshot_20251207_132427_myCalculator.jpg)
 
-
-![Home Screen](screenshots/screen1.jpg)
-
+### Calculator UI
+![Calculator UI](screenshots/Screenshot_20251207_132457_myCalculator.jpg)
 
 
 
